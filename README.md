@@ -18,8 +18,15 @@ API tối thiểu được thiết kế để tạo ra API HTTP với mức ph�
 -  Test thành công các ENDPOINTS
 -  POST được
 -  GET tất cả dữ liệu, GET theo id và GET theo tiêu chí còn lại
+  ![image](https://github.com/user-attachments/assets/455775ea-1b64-4bda-804c-b9dad5ef1ac9)
+
 -  PUT được dữ liệu theo id
+  ![image](https://github.com/user-attachments/assets/c360691b-aefe-4a6c-9b40-643f0f68de52)
+  ![image](https://github.com/user-attachments/assets/c60c6f0a-fd7f-4930-aec2-0895e0476116)
+
 -  DELETE dữ liệu theo id
+  ![image](https://github.com/user-attachments/assets/f278bb86-ad1c-45b9-9a61-e88f99eace7b)
+  ![image](https://github.com/user-attachments/assets/efff7b01-2402-4885-a360-51a804ad1a20)
 
 ## Các vấn đề và cách giải quyết
 
